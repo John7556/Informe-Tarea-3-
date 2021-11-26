@@ -31,9 +31,6 @@ Captiulo 5
 
 ![image](https://user-images.githubusercontent.com/93899720/143545800-391f2a8d-33be-4d69-a503-d39e38cf2741.png)
 
-
-3
-
 5
 
 ![image](https://user-images.githubusercontent.com/93899720/143545894-71a6b465-1a17-4087-a88b-069cbf66c51f.png)
