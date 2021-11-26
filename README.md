@@ -194,6 +194,8 @@ CAPITULO 6
 
 15
 
+
+
 17
 
 ![Captura de pantalla 2021-11-26 002115](https://user-images.githubusercontent.com/93899720/143531103-d89d7f6b-e542-4146-8167-64008c19cc56.png)
