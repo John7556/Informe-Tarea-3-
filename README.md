@@ -27,7 +27,6 @@
 
 Captiulo 5
 
-
 1
 
 ![image](https://user-images.githubusercontent.com/93899720/143545800-391f2a8d-33be-4d69-a503-d39e38cf2741.png)
@@ -149,24 +148,11 @@ Captiulo 5
 
 ![Captura de pantalla 2021-11-26 002005](https://user-images.githubusercontent.com/93899720/143531095-7b80d3eb-7a60-4e1c-8685-52c500cd2c64.png)
 
-61
-
-63
-
-65
 
 CAPITULO 6
 1
 
 ![Captura de pantalla 2021-11-26 002019](https://user-images.githubusercontent.com/93899720/143531097-fe015a4f-48d6-4f4c-a68f-1d1463e12781.png)
-
-
-
-
-
-
-
-
 
 3
 
@@ -250,21 +236,9 @@ CAPITULO 6
 
 ![Captura de pantalla 2021-11-26 002236](https://user-images.githubusercontent.com/93899720/143531111-3b60a3dc-00e4-4cb3-9712-6051f3f6bbda.png)
 
-43
-
 45
 
 ![Captura de pantalla 2021-11-26 002249](https://user-images.githubusercontent.com/93899720/143531114-35c9c867-a4ee-4ad3-95e2-df7021632adc.png)
-
-
-47
-
-49
-
-51
-
-53
-
 
 4. VIDEO
 
