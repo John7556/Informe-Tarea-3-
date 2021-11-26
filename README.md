@@ -194,7 +194,7 @@ CAPITULO 6
 
 15
 
-
+![image](https://user-images.githubusercontent.com/93899720/143547371-d71a4f3d-83e7-40ff-a08b-aca68ed8a1bf.png)
 
 17
 
