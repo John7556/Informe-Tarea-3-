@@ -125,6 +125,8 @@ Captiulo 5
 
 49
 
+![image](https://user-images.githubusercontent.com/93899720/143546929-a76599db-39be-4402-97f6-7993a2d2c160.png)
+
 51
 
 ![Captura de pantalla 2021-11-26 001928](https://user-images.githubusercontent.com/93899720/143531092-85f3d9f4-2b38-45f1-b724-0a33573e6640.png)
