@@ -15,6 +15,12 @@
 
 2. MARCO TEÓRICO (RESUMEN)
 
+![Capitulo 5 1](https://user-images.githubusercontent.com/93899720/143534420-d81066d9-594e-47bf-ae44-4ae4ff8e0ff3.jpg)
+
+![Capitulo 5](https://user-images.githubusercontent.com/93899720/143534422-a12789e3-bb13-4155-97a1-f2afcc7e8b84.jpg)
+
+![Capitulo 6](https://user-images.githubusercontent.com/93899720/143534424-38c04217-e5db-4b99-b1a9-36214bcf11bc.jpg)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
