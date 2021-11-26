@@ -24,21 +24,7 @@ Captiulo 5
 
 11
 
-
 ![Captura de pantalla 2021-11-26 001707](https://user-images.githubusercontent.com/93899720/143531074-24ffc6c4-ffae-4f75-93bb-a732113737b4.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 13
 
@@ -109,8 +95,6 @@ Captiulo 5
 55
 
 ![Captura de pantalla 2021-11-26 001952](https://user-images.githubusercontent.com/93899720/143531094-d6bcd072-9710-451d-8a80-9fbf1e21c6c2.png)
-
-53
 
 57
 
