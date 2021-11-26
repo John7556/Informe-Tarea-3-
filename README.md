@@ -178,6 +178,8 @@ CAPITULO 6
 
 7
 
+![image](https://user-images.githubusercontent.com/93899720/143547179-795efe70-06bf-43dc-a32f-45647025a251.png)
+
 9
 
 ![Captura de pantalla 2021-11-26 002052](https://user-images.githubusercontent.com/93899720/143531100-f3382050-67d4-49dc-b622-0cb6604b7490.png)
