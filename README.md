@@ -3,6 +3,14 @@
 
 1. OBJETIVOS
 
+•	Identificar un circuito resistivo conectado  en serie y en paralelo determinado su corriente a través de un circuito en serie y su voltaje en cada rama conectada en paralelo
+•	Determinar la resistencia total en serie y en paralelo para así aplicar  la ley de Ohm 
+•	Determinar el efecto total de fuentes de voltaje conectadas en serie y de corrientes en paralelo
+•	Aplicar la ley del voltaje y corriente de Kirchhoff 
+•	Utilizar un circuito en serie y paralelo como divisor de voltaje
+•	Determinar potencia en un circuito en serie y en paralelo
+•	Medir voltaje con respecto a tierra
+•	Localizar fallas en circuitos en serie y paralelo, con la destreza de aplicar estos conocimiento a fines prácticos
 
 
 2. MARCO TEÓRICO (RESUMEN)
@@ -205,8 +213,13 @@ CAPITULO 6
 
 
 5. CONCLUSIONES
-
+   
+Cada conexión tiene sus diferencias, ayuda al ingeniero de distintas maneras, se puede obtener beneficios según la forma en la que se conecte un circuito, la corriente será constante si se utiliza una conexión en serie,  con una conexión en paralelo se podrá interrumpir el flujo de electricidad del circuito sin que esto afecte su funcionamiento. Con una comprensión clara de esto conceptos, se podrá diseñar un circuito para resolver un problema planteado.
 
 
 6. BIBLIOGRAFÍA
+
+Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.).
+(2021). Retrieved 16 November 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
+
 
