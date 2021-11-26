@@ -210,6 +210,8 @@ CAPITULO 6
 
 23
 
+![image](https://user-images.githubusercontent.com/93899720/143547645-da3c29a8-fb88-4517-a4c0-81e8777e1e54.png)
+
 25
 
 ![Captura de pantalla 2021-11-26 002137](https://user-images.githubusercontent.com/93899720/143531106-7a772e06-91d5-46c7-be62-fe3114d571d3.png)
