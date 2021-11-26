@@ -242,6 +242,9 @@ CAPITULO 6
 
 39
 
+![image](https://user-images.githubusercontent.com/93899720/143547948-8acf540c-63a2-4d9f-90bc-5448fabe7de9.png)
+
+
 41
 
 ![Captura de pantalla 2021-11-26 002236](https://user-images.githubusercontent.com/93899720/143531111-3b60a3dc-00e4-4cb3-9712-6051f3f6bbda.png)
