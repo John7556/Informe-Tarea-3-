@@ -243,6 +243,7 @@ CAPITULO 6
 39
 
 ![image](https://user-images.githubusercontent.com/93899720/143547948-8acf540c-63a2-4d9f-90bc-5448fabe7de9.png)
+![image](https://user-images.githubusercontent.com/93899720/143548004-ad0039d6-5f21-4a8c-8fe4-ce4d2e671e39.png)
 
 
 41
